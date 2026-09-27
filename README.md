@@ -4,7 +4,7 @@ A modern hospital and pharmacy operations dashboard to triage, track, and resolv
 
 ---
 
-## 🌟 Key Features
+## Key Features
 
 - **Clinical Sign-In Gateway**: Secure staff login with 1-click demo profiles (Maya Rao, Dr. Patel, Elena Rostova).
 - **Operations Dashboard**: Real-time shift status, workload progress, and priority refill cases.
@@ -14,7 +14,7 @@ A modern hospital and pharmacy operations dashboard to triage, track, and resolv
 
 ---
 
-## 👨‍⚕️ Demo Staff Accounts (1-Click Login)
+## Demo Staff Accounts (1-Click Login)
 
 | Name | Role | Department |
 | :--- | :--- | :--- |
@@ -26,7 +26,7 @@ A modern hospital and pharmacy operations dashboard to triage, track, and resolv
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Framework**: React 19 + TypeScript
 - **Styling**: Tailwind CSS
@@ -35,7 +35,7 @@ A modern hospital and pharmacy operations dashboard to triage, track, and resolv
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### 1. Install dependencies
 ```bash
@@ -54,6 +54,6 @@ npm run build
 
 ---
 
-## 📄 License
+## License
 
 MIT License. Designed for clinical operations and pharmacy workflow management.
