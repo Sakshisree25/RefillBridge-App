@@ -1,0 +1,6 @@
+{
+  "name": "RxRelay - Refill Resolution Control Center",
+  "description": "B2B operational command system for pharmacies and physician groups to identify, triage, and resolve stuck prescription refills.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
